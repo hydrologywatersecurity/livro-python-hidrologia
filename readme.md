@@ -1,6 +1,6 @@
 # **Livro**: Fundamentos para Análise de Dados em Grande Escala em Bacias Hidrográficas
 
-Projeto de Exercícios de Recursos Hídricos resolvidos em linguagem Python utilizando a base de dados do CABra
+Projeto de Exercícios de Recursos Hídricos resolvidos em linguagem Python utilizando a base de dados do Catchments Attributes for Brazil (CABra)
 
 O estudo da Hidrologia é matéria essencial dentro da formação de profissionais da área ambiental, construção civil e estudiosos dos recursos naturais. O estudo dos recursos hídricos abrange cálculos estatísticos de precipitação, vazão, cálculos de balanço hídrico e de demais parâmetros pertinentes ao estudo do ciclo da água.
 
